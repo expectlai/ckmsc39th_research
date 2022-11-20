@@ -1,1 +1,2 @@
-"# ckmsc39th_research" 
+# ckmsc39th_research
+just some codes
